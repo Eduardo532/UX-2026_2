@@ -13,8 +13,8 @@
 2. [Team & Roles](#2-team--roles)
 3. [Strategy](#3-strategy)
    - [3.1 Value Proposition Canvas](#31-value-proposition-canvas)
-   - [3.2 UX Personas](32-ux-personas)
-   - [Benchmark Analysis](#33-benchmark-analysis)
+   - [3.2 UX Personas](#32-ux-personas)
+   - [3.3 Benchmark Analysis](#33-benchmark-analysis)
 <!--
 
 4. [Scope](#4-scope)
@@ -94,6 +94,15 @@ Three personas were identified based on field context and the user story provide
 ---
 
 ### 3.3 Benchmark Analysis
+
+#### Tool Selection & Justification
+
+| # | Tool | Category | Justification |
+|---|---|---|---|
+| 1 | **lorem ipsum** | LOREM IPSUM | LOREM IPSUM |
+| 2 | **lorem ipsum** | LOREM IPSUM | LOREM IPSUM |
+| 3 | **lorem ipsum** | LOREM IPSUM | LOREM IPSUM |
+| 4 | **lorem ipsum** | LOREM IPSUM | LOREM IPSUM |
 
 
 
