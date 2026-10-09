@@ -55,7 +55,26 @@ After a fire or flood, shelters register people in notebooks. There are separate
 ---
 
 ## 3. Strategy
-> *LOREM IPSUM*
+> *The strategy defines why the product exists and who it serves. After a fire or flood, shelters still register people in paper notebooks, while separated families, sensitive data (health, minors) and several agencies working in parallel make reunification slow and risky. Our strategy answers one explicit tension: visibility helps families find each other, while data protection keeps minors and people at risk from being exposed.*
+
+**Product objective:** let shelter volunteers quickly register arriving families and answer "is this person here?", without publishing information that exposes minors or people at risk.
+
+**Design constraints:** it must work under pressure, with untrained volunteer staff, and across several organizations.
+
+**Who it serves and what they need**
+- **Volunteers (Camila):** fast registration, with little or no training, even when the line is long or the internet goes down.
+- **Concerned relatives (Elena):** offline access to emergency plans, communication across shelters, and safe handling of her family's data.
+- **Evacuated people (Mauricio):** an instant, trustworthy answer to "is my family here?"
+
+**Strategic principles**
+1. **Visibility with protection:** answer "possible match" or "no match", never a public list; release only the minimum needed.
+2. **Two actions up front:** "Register person" and "Search person".
+3. **Works when the network doesn't:** register offline and synchronize later.
+4. **People stay in the loop:** the system suggests candidates with a confidence level; volunteers verify and the family consents.
+5. **One record across agencies:** shelters and organizations share a coordinated, role-based view instead of separate notebooks.
+6. **Close the loop:** mark people as "reunified" and define retention rules once the emergency ends.
+
+**Differentiation:** the benchmark found no tool that combines registration, cross-shelter search, a shelter map, transfer history, matching tolerant of incomplete data, and offline operation. That combination is our opportunity.
 
 ### 3.1 Value Proposition Canvas
 
