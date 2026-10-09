@@ -46,11 +46,11 @@ After a fire or flood, shelters register people in notebooks. There are separate
 ---
 
 ## 2. Team & Roles
-| Name | Role | Responsibilities |
-|---|---|---|
-| **Eduardo Gómez** | Project Lead & Designer | LOREM IPSUM |
-| **Maximiliano Rivas** | Designer | LOREM IPSUM |
-| **José Rivera** | Designer | LOREM IPSUM |
+| Name | Role |
+|---|---|
+| **Eduardo Gómez** | Project Lead & Designer |
+| **Maximiliano Rivas** | Designer |
+| **José Rivera** | Designer |
 
 ---
 
